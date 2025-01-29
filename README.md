@@ -29,14 +29,18 @@ Uma lista de serviços correspondentes a essas portas.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Projeto 2 - [Busca por Vulnerabilidades com Desafios de Código em Python - Módulo Fundamentos de Busca por Vulnerabilidades e Testes de Invasão]
-DESAFIO 1
+DESAFIO 1:
 
 Descrição
 Crie uma solução para analisar uma lista de e-mails recebidos, verificando padrões comuns de phishing nas mensagens. Se um e-mail contiver palavras suspeitas como "ganhe", "prêmio", "urgente", "desconto", "click" e "promoção" ele deve ser classificado como "Phishing" e "Seguro".
+
 Entrada
 Uma String contendo um conteúdo único representando o corpo do e-mail.
+
 Saída
 "Phishing" ou "Seguro" para cada e-mail.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DESAFIO 2:
