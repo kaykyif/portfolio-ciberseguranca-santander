@@ -4,7 +4,7 @@ Este repositório contém os projetos realizados durante o bootcamp.
 
 ## Projetos
 
-### Projeto 1 - [Explorando Fundamentos de Cibersegurança com Desafios de Código em Python]
+### Projeto 1 - [Explorando Fundamentos de Cibersegurança com Desafios de Código em Python - Módulo Fundamentos de Cibersegurança]
 
 DESAFIO 1
 
@@ -24,7 +24,7 @@ Saída
 Uma lista de serviços correspondentes a essas portas.
 
 
-### Projeto 2 - [Busca por Vulnerabilidades com Desafios de Código em Python]
+### Projeto 2 - [Busca por Vulnerabilidades com Desafios de Código em Python - Módulo Fundamentos de Busca por Vulnerabilidades e Testes de Invasão]
 DESAFIO 1
 
 Descrição
